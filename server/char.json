@@ -52,28 +52,28 @@
   "animes": [
     {
       "id": 1,
-      "title": "Jujutsu Kaisen",
+      "name": "Jujutsu Kaisen",
       "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTMwMDM4N2EtOTJiYy00OTQ0LThlZDYtYWUwOWFlY2IxZGVjXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg"
     },
     {
       "id": 2,
-      "title": "Hunter x Hunter",
+      "name": "Hunter x Hunter",
       "imageUrl": "https://m.media-amazon.com/images/M/MV5BNGM0YTk3MWEtN2JlZC00ZmZmLWIwMDktZTMxZGE5Zjc2MGExXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg"
     },
     {
       "id": 3,
-      "title": "Chainsaw Man",
-      "imageUrl": "https://static.wikia.nocookie.net/chainsaw-man/images/0/0f/Volume_01.png/revision/latest/scale-to-width-down/1200?cb=20230907225315"
+      "name": "Chainsaw Man",
+      "imageUrl": "https://i.pinimg.com/736x/9f/4e/8c/9f4e8c9e698f21ed53192f4ca9792790.jpg"
     },
     {
       "id": 4,
-      "title": "Berserk",
+      "name": "Berserk",
       "imageUrl": "https://pbs.twimg.com/media/F4oNG-IXoAAYssX?format=jpg&name=large"
     },
     {
       "id": 5,
-      "title": "Neon Genesis Evangelion",
-      "imageUrl": "https://static.wikia.nocookie.net/doblaje/images/a/a6/Neon_Genesis_Evangelion_-_Poster.jpg/revision/latest/thumbnail/width/360/height/450?cb=20220519030722&path-prefix=es"
+      "name": "Neon Genesis Evangelion",
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BMGRlZTIwZjQtZWU2NC00MDYzLTg0YWUtOGY3YjU4NTUzOTU1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
     }
   ]
 }
