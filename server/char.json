@@ -1,52 +1,79 @@
 {
-    "characters": [
-        {
-            "id": 1,
-            "name": "Denji",
-            "imageUrl": "https://pict.sindonews.net/dyn/850/pena/news/2022/09/20/700/890479/8-fakta-unik-denji-karakter-utama-serial-chainsaw-man-xyw.jpg",
-            "type": "physical"
-        },
-        {
-            "id": 2,
-            "name": "Ichigo",
-            "imageUrl": "https://cdn.oneesports.gg/cdn-data/2022/01/Bleach_AnimeSennenKessenHen.webp",
-            "type": "physical"
-        },
-        {
-            "id": 3,
-            "name": "Makima",
-            "imageUrl": "https://divedigital.id/wp-content/uploads/2022/10/siapa-makima-yang-sebenarnya.jpg",
-            "type": "magical"
-        },
-        {
-            "id": 4,
-            "name": "Shigeo",
-            "imageUrl": "https://dafunda.com/wp-content/uploads/2021/10/Shigeo-Kageyama-800x450.jpg",
-            "type": "magical"
-        },
-        {
-            "id": 5,
-            "name": "Guts",
-            "imageUrl": "https://sportshub.cbsistatic.com/i/2022/10/13/661ce70d-c394-4e26-9268-041b39010ab3/berserk-guts.jpg",
-            "type": "physical"
-        },
-        {
-            "id": 6,
-            "name": "Kurapika",
-            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaYnYN_22sy06bDvHltEAAFvlAKuh-6qpXaA&usqp=CAU",
-            "type": "magical"
-        },
-        {
-            "id": 7,
-            "name": "Gojo",
-            "imageUrl": "https://mangathrill.com/wp-content/uploads/2021/04/pjimage-2021-04-03T004414.243.jpg",
-            "type": "magical"
-        },
-        {
-            "id": 8,
-            "name": "Saitama",
-            "imageUrl": "https://api.duniagames.co.id/api/content/upload/file/9286259361635753003.jpg",
-            "type": "physical"
-        }
-    ]
+  "characters": [
+    {
+      "id": 1,
+      "name": "Denji",
+      "imageUrl": "https://pict.sindonews.net/dyn/850/pena/news/2022/09/20/700/890479/8-fakta-unik-denji-karakter-utama-serial-chainsaw-man-xyw.jpg",
+      "type": "physical"
+    },
+    {
+      "id": 2,
+      "name": "Ichigo",
+      "imageUrl": "https://cdn.oneesports.gg/cdn-data/2022/01/Bleach_AnimeSennenKessenHen.webp",
+      "type": "physical"
+    },
+    {
+      "id": 3,
+      "name": "Makima",
+      "imageUrl": "https://divedigital.id/wp-content/uploads/2022/10/siapa-makima-yang-sebenarnya.jpg",
+      "type": "magical"
+    },
+    {
+      "id": 4,
+      "name": "Shigeo",
+      "imageUrl": "https://dafunda.com/wp-content/uploads/2021/10/Shigeo-Kageyama-800x450.jpg",
+      "type": "magical"
+    },
+    {
+      "id": 5,
+      "name": "Guts",
+      "imageUrl": "https://sportshub.cbsistatic.com/i/2022/10/13/661ce70d-c394-4e26-9268-041b39010ab3/berserk-guts.jpg",
+      "type": "physical"
+    },
+    {
+      "id": 6,
+      "name": "Kurapika",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaYnYN_22sy06bDvHltEAAFvlAKuh-6qpXaA&usqp=CAU",
+      "type": "magical"
+    },
+    {
+      "id": 7,
+      "name": "Gojo",
+      "imageUrl": "https://mangathrill.com/wp-content/uploads/2021/04/pjimage-2021-04-03T004414.243.jpg",
+      "type": "magical"
+    },
+    {
+      "id": 8,
+      "name": "Saitama",
+      "imageUrl": "https://api.duniagames.co.id/api/content/upload/file/9286259361635753003.jpg",
+      "type": "physical"
+    }
+  ],
+  "animes": [
+    {
+      "id": 1,
+      "title": "Jujutsu Kaisen",
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTMwMDM4N2EtOTJiYy00OTQ0LThlZDYtYWUwOWFlY2IxZGVjXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Hunter x Hunter",
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BNGM0YTk3MWEtN2JlZC00ZmZmLWIwMDktZTMxZGE5Zjc2MGExXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Chainsaw Man",
+      "imageUrl": "https://static.wikia.nocookie.net/chainsaw-man/images/0/0f/Volume_01.png/revision/latest/scale-to-width-down/1200?cb=20230907225315"
+    },
+    {
+      "id": 4,
+      "title": "Berserk",
+      "imageUrl": "https://pbs.twimg.com/media/F4oNG-IXoAAYssX?format=jpg&name=large"
+    },
+    {
+      "id": 5,
+      "title": "Neon Genesis Evangelion",
+      "imageUrl": "https://static.wikia.nocookie.net/doblaje/images/a/a6/Neon_Genesis_Evangelion_-_Poster.jpg/revision/latest/thumbnail/width/360/height/450?cb=20220519030722&path-prefix=es"
+    }
+  ]
 }
