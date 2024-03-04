@@ -4,49 +4,58 @@
       "id": 1,
       "name": "Denji",
       "imageUrl": "https://pict.sindonews.net/dyn/850/pena/news/2022/09/20/700/890479/8-fakta-unik-denji-karakter-utama-serial-chainsaw-man-xyw.jpg",
-      "description": "As a young boy, he inherits his father's debts from the Yakuza. After meeting Pochita, he becomes a Devil Hunter for the Yakuza in an attempt to clear his debt. Once the Yakuza, under the control of a Devil, betrays him, he dies and Pochita becomes his heart."
+      "description": "As a young boy, he inherits his father's debts from the Yakuza. After meeting Pochita, he becomes a Devil Hunter for the Yakuza in an attempt to clear his debt. Once the Yakuza, under the control of a Devil, betrays him, he dies and Pochita becomes his heart.",
+      "power": 1000
     },
     {
       "id": 2,
       "name": "Ichigo",
       "imageUrl": "https://cdn.oneesports.gg/cdn-data/2022/01/Bleach_AnimeSennenKessenHen.webp",
-      "description": "Ichigo is one of the students attending Karakura High School and having the ability to see ghosts. He meets a Soul Reaper named Rukia Kuchiki from a secret organization called the Soul Society, who are in charge of sending souls to the afterlife. At the same time, Ichigo's family is attacked by a Hollow, a deceased spirit becoming a warped soul-eating monster which Soul Reapers deal with. After being wounded in an attempt to save Ichigo from a Hollow attack, Rukia transfers her Soul Reaper powers to him so he can save his family."
+      "description": "Ichigo is one of the students attending Karakura High School and having the ability to see ghosts. He meets a Soul Reaper named Rukia Kuchiki from a secret organization called the Soul Society, who are in charge of sending souls to the afterlife. At the same time, Ichigo's family is attacked by a Hollow, a deceased spirit becoming a warped soul-eating monster which Soul Reapers deal with. After being wounded in an attempt to save Ichigo from a Hollow attack, Rukia transfers her Soul Reaper powers to him so he can save his family.",
+
+      "power": 4000
     },
     {
       "id": 3,
       "name": "Makima",
       "imageUrl": "https://divedigital.id/wp-content/uploads/2022/10/siapa-makima-yang-sebenarnya.jpg",
-      "description": "Makima is an extreme fan of the Chainsaw Devil, and by proxy Denji. Fascinated by its ability to wipe out the embodied concept of a devil when eating them, her goal is bringing the Chainsaw Devil under her control, using its power to create an ideal world without fears."
+      "description": "Makima is an extreme fan of the Chainsaw Devil, and by proxy Denji. Fascinated by its ability to wipe out the embodied concept of a devil when eating them, her goal is bringing the Chainsaw Devil under her control, using its power to create an ideal world without fears.",
+      "power": 3000
     },
     {
       "id": 4,
       "name": "Shigeo",
       "imageUrl": "https://dafunda.com/wp-content/uploads/2021/10/Shigeo-Kageyama-800x450.jpg",
-      "description": "Shigeo Kageyama, nicknamed 'Mob' (モブ), is the protagonist of the Mob Psycho 100 series, as well as assistant and disciple of Arataka Reigen. He is the newest member of the Body Improvement Club."
+      "description": "Shigeo Kageyama, nicknamed 'Mob' (モブ), is the protagonist of the Mob Psycho 100 series, as well as assistant and disciple of Arataka Reigen. He is the newest member of the Body Improvement Club.",
+      "power": 2000
     },
     {
       "id": 5,
       "name": "Guts",
       "imageUrl": "https://sportshub.cbsistatic.com/i/2022/10/13/661ce70d-c394-4e26-9268-041b39010ab3/berserk-guts.jpg",
-      "description": "He is a tall, muscular man with a huge sword called the Dragon Slayer, a prosthetic left forearm that has a magnetic grip which also conceals a cannon. Guts is a tragic hero; he is born as one who may be able to struggle against Causality, but seemingly unable to affect it on a large scale."
+      "description": "He is a tall, muscular man with a huge sword called the Dragon Slayer, a prosthetic left forearm that has a magnetic grip which also conceals a cannon. Guts is a tragic hero; he is born as one who may be able to struggle against Causality, but seemingly unable to affect it on a large scale.",
+      "power": 1000
     },
     {
       "id": 6,
       "name": "Kurapika",
       "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaYnYN_22sy06bDvHltEAAFvlAKuh-6qpXaA&usqp=CAU",
-      "description": "Kurapika is a member of the Kurta tribe who were massacred by the Phantom Troupe (The Spiders) 4 years prior the Hunter exam. The Kurta tribe was an isolated group of people whose eyes would turn scarlet when angered or excited. These scarlet eyes were known to be beautiful, being one of the seven most beautiful in the world. Because of this, the Kurta tribe was constantly pursued and eventually massacred. The eyes of the tribe members were all taken away during the massacre. Kurapika is so far the only known survivor with a heart bent on revenge. He strives to have his revenge against the Phantom Troupe as well as recover the eyes of his tribe members."
+      "description": "Kurapika is a member of the Kurta tribe who were massacred by the Phantom Troupe (The Spiders) 4 years prior the Hunter exam. The Kurta tribe was an isolated group of people whose eyes would turn scarlet when angered or excited. These scarlet eyes were known to be beautiful, being one of the seven most beautiful in the world. Because of this, the Kurta tribe was constantly pursued and eventually massacred. The eyes of the tribe members were all taken away during the massacre. Kurapika is so far the only known survivor with a heart bent on revenge. He strives to have his revenge against the Phantom Troupe as well as recover the eyes of his tribe members.",
+      "power": 3000
     },
     {
       "id": 7,
       "name": "Gojo",
       "imageUrl": "https://mangathrill.com/wp-content/uploads/2021/04/pjimage-2021-04-03T004414.243.jpg",
-      "description": "Satoru Gojou is the first-year teacher at Tokyo Metropolitan Magic Technical College. When interacting with his students and friends, he is known to be quite playful and carefree. However, toward his enemies, he has shown to be quite cruel and rebellious. He is also very confident in his abilities and reputation as a powerful sorcerer."
+      "description": "Satoru Gojou is the first-year teacher at Tokyo Metropolitan Magic Technical College. When interacting with his students and friends, he is known to be quite playful and carefree. However, toward his enemies, he has shown to be quite cruel and rebellious. He is also very confident in his abilities and reputation as a powerful sorcerer.",
+      "power": 5000
     },
     {
       "id": 8,
       "name": "Saitama",
       "imageUrl": "https://api.duniagames.co.id/api/content/upload/file/9286259361635753003.jpg",
-      "description": "Saitama is the most powerful hero alive. Having apparently trained himself to superhuman condition, Saitama faces an existential crisis as he is now too powerful to gain any thrill from his heroic deeds."
+      "description": "Saitama is the most powerful hero alive. Having apparently trained himself to superhuman condition, Saitama faces an existential crisis as he is now too powerful to gain any thrill from his heroic deeds.",
+      "power": 10000
     }
   ],
   "animes": [
